@@ -15,7 +15,7 @@ I'm a **web development enthusiast** currently learning **HTML, CSS, and JavaScr
 ## 📬 Connect with Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/partho-protim-das-4b5619257/)  
 - 📘 [Facebook](https://www.facebook.com/partho.protim.das09)
-- 📧 Email: protimpartho245@gmail.com
+- 📧 Email: **protimpartho245@gmail.com** 
   
 💬 **Feel free to knock me anytime!**  
 
